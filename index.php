@@ -6,7 +6,7 @@
   <head>
     <title>Basic - PatternFly</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="../dist/img/favicon.ico">
+    <!-- <link rel="shortcut icon" href="../dist/img/favicon.ico"> -->
     <!-- iPad retina icon -->
     <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../dist/img/apple-touch-icon-precomposed-152.png">
     <!-- iPad retina icon (iOS < 7) -->
